@@ -1,0 +1,5 @@
+version: '3.4'
+services:
+    dappnode.public.dappnode.eth:
+        image: 'dappnode.public.dappnode.eth:0.0.1'
+        build: ./build

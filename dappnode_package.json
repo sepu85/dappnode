@@ -1,0 +1,16 @@
+{
+  "name": "dappnode.public.dappnode.eth",
+  "version": "0.0.1",
+  "description": "dappnode description",
+  "avatar": "",
+  "type": "service",
+  "image": {
+    "path": "",
+    "hash": "",
+    "size": "",
+    "restart": "always"
+  },
+  "author": "sepu85",
+  "license": "",
+  "dependencies": {}
+}
